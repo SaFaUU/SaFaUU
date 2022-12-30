@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SaFaUU
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Safa Asgar
+- I am Computer Science Undergraduate.
+- 👀 I’m interested in Web Development, Machine Learning and Art.
+- 🌱 I’m currently learning Redux and Dimensionality Reduction in Machine Learning.
 
-<!---
-SaFaUU/SaFaUU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach me in safaasgar58@gmail.com
