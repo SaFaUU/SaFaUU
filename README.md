@@ -34,12 +34,30 @@
 
 ## 📊 My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaFaUU&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                 <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaFaUU&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
 
 <br/>
 <br/>
-| <a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="AlexPy's github stats" /></a> |
-<a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+    </tr>
+</table>
 
 
 ### 💻 Programming Languages:
