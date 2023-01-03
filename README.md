@@ -1,7 +1,7 @@
 ![alt text](https://cdna.artstation.com/p/assets/images/images/050/423/884/medium/mohammx-safa-final.jpg?1654803157)
 
-<h1 align="center"> Hello I am Safa Asgar! 👋</h1>
-<h3 align="center"> This artwork is created by me</h1>
+<h1 align="center"> Safa Asgar! 👋</h1>
+<h3 align="center"> This artwork is created by me 😊</h1>
 
 - 👋 Hi, I’m Safa Asgar
 - 🖥️ I am Computer Science Undergraduate.
@@ -74,7 +74,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-💻 IDEs/Editors
+### 💻 IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
