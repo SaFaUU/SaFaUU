@@ -35,7 +35,6 @@
 ## 📊 My Github Stats
 
 <p align="center">
-
     <table align="center">
         <tr>
             <td>
