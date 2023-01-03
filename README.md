@@ -3,20 +3,74 @@
 <h1 align="center"> Safa Asgar! 👋</h1>
 <h3 align="center"> This artwork is created by me 😊</h1>
 
+## 🙋‍♂️ About Me
 - 👋 Hi, I’m Safa Asgar
 - 🖥️ I am Computer Science Undergraduate.
 - 👀 I’m interested in Web Development, Machine Learning and Art.
 - 🌱 I’m currently learning Redux and Dimensionality Reduction in Machine Learning.
 - 📫 You can reach me in safaasgar58@gmail.com
 
-### 🧑‍💻 My Profile Links:
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 
+## 🌐 Connect with me: 
+
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <a href="https://twitter.com/mdhamidhosen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdhamidhosen1" height="30" width="40" /></a>
+    </td>
+    <td>
+     <a href="https://linkedin.com/in/md-hamid-hosen-699a10196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hamid-hosen-699a10196" height="30" width="40" /></a>
+    </td>
+    <td>
+     <a href="https://kaggle.com/hosen42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hosen42" height="30" width="40" /></a>
+    </td>
+      <td>
+     <a href="https://fb.com/mdhamidhosen42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdhamidhosen42" height="30" width="40" /></a>
+    </td>
+      <td>
+<a href="https://instagram.com/md.hamidhosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.hamidhosen" height="30" width="40" /></a>
+    </td>
+      <td>
+<a href="https://medium.com/hamid42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hamid42" height="30" width="40" /></a>
+    </td>
+      <td>
+<a href="https://www.codechef.com/users/hamid42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hamid42" height="30" width="40" /></a>
+    </td>
+      <td>
+<a href="https://www.hackerrank.com/hamid42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamid42" height="30" width="40" /></a>
+    </td>
+      <td>
+<a href="https://www.leetcode.com/hamid42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamid42" height="30" width="40" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                 <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaFaUU&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
+
+## 📊 My Github Stats
+
+<br/>
+<br/>
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa Asgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Asgar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+    </tr>
+</table>
 
 
 ### 💻 Programming Languages:
@@ -80,17 +134,6 @@
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-### 🖥⌨ Stats
-
-
-
-<a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&layout=compact&theme=tokyonight&hide_border=true" /></a>
-
-<br />
-<a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=SaFaUU&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Safa's github stats" /></a>
-
-<br />
 
 ---
 
