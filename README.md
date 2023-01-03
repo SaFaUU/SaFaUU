@@ -49,16 +49,7 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                 <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaFaUU&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
-            </td>
-        </tr>
-   </table>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaFaUU&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 <br/>
