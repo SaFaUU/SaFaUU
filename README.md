@@ -49,8 +49,7 @@
     <table align="center">
         <tr>
             <td>
-                 <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaFaUU&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+                 [![GitHub Streak](https://streak-stats.demolab.com?user=SaFaUU&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
             </td>
         </tr>
    </table>
@@ -64,6 +63,7 @@
 <table>
     <tr>
         <td>
+          
             <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Safa Asgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
         </td>
         <td>
