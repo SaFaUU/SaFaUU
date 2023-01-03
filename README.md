@@ -34,8 +34,10 @@
 
 ## 📊 My Github Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  
     <table align="center">
         <tr>
             <td>
