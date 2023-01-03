@@ -49,6 +49,17 @@
 
 ## 📊 My Github Stats
 
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                 <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaFaUU&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
+
 <br/>
 <br/>
 <a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="AlexPy's github stats" /></a> |
