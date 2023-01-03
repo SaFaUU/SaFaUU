@@ -46,13 +46,7 @@
 </table>
 
 <p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                 [![GitHub Streak](https://streak-stats.demolab.com?user=SaFaUU&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-            </td>
-        </tr>
-   </table>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=SaFaUU&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 </p>
 
 ## 📊 My Github Stats
