@@ -40,7 +40,7 @@
 
 | <a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SaFaUU&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="Safa's github stats" /></a> | <a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaFaUU&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="AlexPy's github stats" /></a> | 
 
-<a href="https://github.com/alex-pythonista"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaFaUU&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
 <br />
 <a href="https://github.com/SaFaUU"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=SaFaUU&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Safa's github stats" /></a>
