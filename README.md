@@ -5,10 +5,10 @@
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Safa Asgar
-- 🖥️ I am Computer Science Undergraduate.
-- 👀 I’m interested in Web Development, Machine Learning and Art.
-- 🌱 I’m currently learning Mongoose, Three JS for Web and Transformers in Machine Learning.
-- 📫 You can reach me in safaasgar58@gmail.com
+- 🖥️ I am a Computer Science Undergraduate.
+- 👀 I’m interested in Web Development, Machine Learning, and Art.
+- 🌱 I’m currently learning PostgreSQL, Three JS for Web, and Transformers in Machine Learning.
+- 📫 You can reach me at safaasgar58@gmail.com
 
 
 ## 🌐 Connect with me: 
