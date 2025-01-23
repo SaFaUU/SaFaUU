@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Safa Asgar
-- 🖥️ I am a Computer Science Undergraduate.
+- 🖥️ I am doing my PhD in CS (Algorithms & Applications).
 - 👀 I’m interested in Web Development, Machine Learning, and Art.
 - 🌱 I’m currently learning React Native, Three JS for Web, and Transformers in Machine Learning.
 - 📫 You can reach me at safaasgar58@gmail.com
